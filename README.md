@@ -1,7 +1,7 @@
 ## Setup & Installtion
 
 ```bash
-git clone https://github.com/kottik-mypp/flask_project.git
+git clone https://github.com/bazarovamd/flask_project.git
 ```
 ```bash
 pip install -r requirements.txt
